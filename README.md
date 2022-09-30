@@ -1,8 +1,13 @@
+# hincky 
+音节，是广州这边的朋友对我的广普称呼，由于跟我的本名读音相像，我就用hincky作为我在网络上的名字。
+
+全网同名
+
 - 👋 Hi, I’m @hincky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 个人博客 「hincky.com」
+- 🌱 最近才创建的公众号，「hincky」
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 邮箱：hincky@yeah.net
 
 <!---
 hincky/hincky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
