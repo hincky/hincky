@@ -10,8 +10,8 @@
 有缘点击，感谢关注
 
 - 👋 Hi, I’m @hincky
-- 👀 个人博客 [「hincky.com」](https://hincky.com)
-- 🌱 最近才创建的公众号，[「hincky」](https://mp.weixin.qq.com/s/3qa1Ktrz9Zka18yHP2eIxQ)
+- 👀 个人博客：[「hincky.com」](https://hincky.com)
+- 🌱 最近才创建的公众号：[「hincky」](https://mp.weixin.qq.com/s/3qa1Ktrz9Zka18yHP2eIxQ)
 - 💞️ gitee：[「hincky」](https://gitee.com/hincky)
 - 📫 邮箱：hincky@yeah.net
 
